@@ -1,0 +1,10 @@
+.register-box{
+    width: 558px;
+    margin: auto;
+}
+
+.borderless {
+
+  border-bottom: hidden;
+  border-top: hidden;
+}
